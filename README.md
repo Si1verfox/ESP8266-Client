@@ -13,12 +13,12 @@ Notes:
    2. Select port /dev/cu.wchusbserialfd1330
    3. Wemos Pins are mapped to Arduino pins as follows:
        Wemos D1 Pin       Use Arduino Pin
-            D0                   3
-            D1                   1
-            D2                  16
-            D3                   5     OP1
-            D4                   4     LED_BUILTIN ?
-            D5                  14     OP2
+#            D0                   3
+#            D1                   1
+#            D2                  16
+#            D3                   5     OP1
+#            D4                   4     LED_BUILTIN ?
+#            D5                  14     OP2
             D6                  12     OP3
             D7                  13
             D8                   0
