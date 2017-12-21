@@ -12,6 +12,7 @@ Notes:
    1. Select board, "Wemos D1 R2 & mini"
    2. Select port /dev/cu.wchusbserialfd1330
    3. Wemos Pins are mapped to Arduino pins as follows:  
+   
         |  Wemos D1 Pin   | Use Arduino Pin |                 |
         |:---------------:|:---------------:|:---------------:|
         | D0  | 3  |
